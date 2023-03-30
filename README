@@ -5,7 +5,7 @@ It contains vital information on creating addons for Etterna, a
 	vertically-scrolling rhythm game designed for keyboard use.
 
 You can help contribute as well.
-To get started, fork the repository and edit the eac.mkdn file.
+To get started, fork the repository and edit the files in the "src" directory.
 GitHub Actions will automatically generate HTML from the markdown you have
 	written, so don't worry too much about markup.
 Once finished, submit a pull request and make changes as required.
