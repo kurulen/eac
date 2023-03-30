@@ -11,7 +11,7 @@ To get started, we'll copy out the NoteSkin `DivideByZero`.
 The `DivideByZero` NoteSkin is located in: \
 `<The Etterna folder>/NoteSkins/dance/DivideByZero` \
 \
-> ![](/info.png) \
+> ![](info.png) \
 > The Etterna folder is usually located at:
 > - `C:\Windows\Games\Etterna` on Windows
 > - `/opt/etterna` on Arch Linux
@@ -35,7 +35,7 @@ For best results, you'll want to edit the images individually. You can use the
 After cutting the images in the spritesheet, you'll be able to edit them by
 	yourself. To pack them back into an image, you'll likely need the
 	texture packer linked in chapter 2. \
-> ![](/unstable_cliff.png) \
+> ![](unstable_cliff.png) \
 > You'll want to use the exact same column and row number
 	as the original spritesheet for now, as the game will glitch out
 	if you don't. \
